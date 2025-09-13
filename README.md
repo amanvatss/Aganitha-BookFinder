@@ -153,17 +153,6 @@ src/
 2. Your preference is automatically saved
 3. Theme applies across all components and modals
 
-## 🔧 Configuration
-
-### Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-REACT_APP_API_BASE_URL=https://openlibrary.org
-REACT_APP_COVERS_BASE_URL=https://covers.openlibrary.org
-```
-
 ### Customization
 
 #### Adding New Search Types
@@ -271,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/amanvatss/Aganitha-BookFinder/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/amanvatss/Aganitha-BookFinder/discussions)
-- **Email**: your-email@example.com
+- **Email**: amanvats2245@gmail.com
 
 ## 🔮 Roadmap
 
